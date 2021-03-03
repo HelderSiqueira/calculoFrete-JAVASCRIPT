@@ -1,6 +1,6 @@
 //MÉTODO PARA MANIPULAÇÃO DE OBJETOS DO DOMU
-// document.getElementById('total')
-// document.querySelector('total')
+// document.getElementById('total') - ID
+// document.querySelector('total') - QUALQUER ELEMENTO
 
 const distancia = document.getElementById('distancia');
 const qtdPedagios =  document.getElementById('pedagios');
